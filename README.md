@@ -8,6 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="arimariojesus | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384031.svg" />][instagram]
+[<img align="left" alt="arimariojesus | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/1419/1419518.svg" />][linkedin]
 
 <br />
 
@@ -31,3 +32,4 @@
 
 
 [instagram]: https://www.instagram.com/codeeveryday365
+[linkedin]: https://www.linkedin.com/in/arimario-jesus/
