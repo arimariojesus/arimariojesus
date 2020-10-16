@@ -28,7 +28,9 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arimariojesus)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arimariojesus)](https://github.com/anuraghazra/github-readme-stats)
+</h1>
 
 
 [instagram]: https://www.instagram.com/codeeveryday365
