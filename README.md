@@ -28,9 +28,9 @@
 
 ---
 
-<h1 align="center">
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arimariojesus)](https://github.com/anuraghazra/github-readme-stats)
-</h1>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=arimariojesus&show_icons=true&theme=default" />
+</p>
 
 
 [instagram]: https://www.instagram.com/codeeveryday365
