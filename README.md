@@ -2,7 +2,7 @@
 
 ## I am a student, passionate about technology, and aspiring programmer🤣!
 - 🔭 I am studying systems analysis and development!
-- 🌱 I'm currently learning a little bit of everything
+- 🌱 I'm currently learning PHP and JavaScript
 - ⚡ Fun fact: I love to play music 🎻
 
 ### Connect with me:
