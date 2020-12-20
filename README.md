@@ -1,35 +1,56 @@
-### Hi there, I'm Arimário 👋
+![banner](https://user-images.githubusercontent.com/64603070/102695401-eb025380-4205-11eb-9c85-37b6fe162f75.gif)
 
-## I am a student, passionate about technology, and aspiring programmer🤣!
-- 🔭 I am studying systems analysis and development!
-- 🌱 I'm currently learning a little bit of everything
-- ⚡ Fun fact: I love to play music 🎻
+Olá, me chamo Arimário, sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Bahia (IFBA), e sou apaixonado por programação, música e tecnologia em geral.
 
-### Connect with me:
+Meu primeiro contato com a programação foi em 2019, e desde então venho estudando diariamente para que um dia eu possa dizer que sou um desenvolvedor fullstack. Adaptei todo o ecossistema à minha volta para que eu pudesse "respisrar" programação e tecnologia.
 
-[<img align="left" alt="arimariojesus | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384031.svg" />][instagram]
-[<img align="left" alt="arimariojesus | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/1419/1419518.svg" />][linkedin]
+<br>
+<details>
+<summary>
+  <strong>⚙ Linguagens</strong>
+</summary>
+<br>
 
-<br />
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
+![SQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MySQL)
 
-### Languages and Tools:
+</details>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<details>
+<summary>
+  <strong>🛠 Ferramentas</strong>
+</summary>
+<br>
 
-<br />
-<br />
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma)
+![PHPMyAdmin](https://img.shields.io/badge/-phpMyAdmin-000000?style=flat&logo=phpMyAdmin)
 
----
+</details>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arimariojesus)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+<summary>
+<strong>📝 Aprendendo</strong>
+</summary>
+<br>
 
+![MySQL](https://img.shields.io/badge/-Ionic-000000?style=flat&logo=ionic)
+![MySQL](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
+![MySQL](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
+![MySQL](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=node.js)
 
-[instagram]: https://www.instagram.com/codeeveryday365
-[linkedin]: https://www.linkedin.com/in/arimario-jesus
+</details>
+
+<hr/>
+<div align="center">
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arimario-jesus/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/codeeveryday)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0072C6?style=flat&logo=Microsoft-Outlook&link=mailto:arimario.jesus@hotmail.com)](mailto:arimario.jesus@hotmail.com)
+
+</div>
