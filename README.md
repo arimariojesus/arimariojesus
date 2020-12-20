@@ -15,7 +15,7 @@ Meu primeiro contato com a programação foi em 2019, e desde então venho estud
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
-![SQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
 </details>
 
