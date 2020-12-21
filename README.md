@@ -50,7 +50,7 @@ Meu primeiro contato com a programação foi em 2019, e desde então venho estud
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/arimario-jesus/)
-[![Instagram](https://img.shields.io/badge/-Instagram-060606?style=flat&labelColor=0D0D0D&logo=instagram&logoColor=white)](https://www.instagram.com/codeeveryday)
+[![Instagram](https://img.shields.io/badge/-Instagram-060606?style=flat&labelColor=0D0D0D&logo=instagram&logoColor=white)](https://www.instagram.com/codeeveryday365)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-060606?style=flat&labelColor=0D0D0D&logo=Microsoft-Outlook&Color=white)](mailto:arimario.jesus@hotmail.com)
 
 </div>
