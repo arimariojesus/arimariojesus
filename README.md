@@ -6,7 +6,7 @@
 
 Olá, me chamo Arimário, sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Bahia (IFBA), e sou apaixonado por programação, música e tecnologia em geral.
 
-Meu primeiro contato com a programação foi em 2019, e desde então venho estudando diariamente para que um dia eu possa dizer que sou um desenvolvedor fullstack. Adaptei todo o ecossistema à minha volta para que eu pudesse "respisrar" programação e tecnologia.
+Meu primeiro contato com a programação foi em 2019, e desde então venho estudando diariamente e adaptei todo o ecossistema à minha volta para que eu pudesse "respisrar" programação e tecnologia, e para que um dia eu venha a me tornar um desenvolvedor fullstack.
 
 <br>
 <details>
@@ -15,11 +15,11 @@ Meu primeiro contato com a programação foi em 2019, e desde então venho estud
 </summary>
 <br>
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
-![SQL](https://img.shields.io/badge/-MYSQL-000000?style=flat&logo=MySQL)
+![HTML5](https://img.shields.io/badge/-HTML5-060606?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-060606?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-060606?style=flat&logo=PHP)
+![SQL](https://img.shields.io/badge/-SQL-060606?style=flat&logo=MySQL)
 
 </details>
 
@@ -29,11 +29,11 @@ Meu primeiro contato com a programação foi em 2019, e desde então venho estud
 </summary>
 <br>
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=GitHub)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=Figma)
-![PHPMyAdmin](https://img.shields.io/badge/-phpMyAdmin-000000?style=flat&logo=phpMyAdmin)
+![Git](https://img.shields.io/badge/-Git-060606?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-060606?style=flat&logo=GitHub)
+![MongoDB](https://img.shields.io/badge/-MongoDB-060606?style=flat&logo=mongodb)
+![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma)
+![PHPMyAdmin](https://img.shields.io/badge/-phpMyAdmin-060606?style=flat&logo=phpMyAdmin)
 
 </details>
 
@@ -43,18 +43,18 @@ Meu primeiro contato com a programação foi em 2019, e desde então venho estud
 </summary>
 <br>
 
-![MySQL](https://img.shields.io/badge/-Ionic-000000?style=flat&logo=ionic)
-![MySQL](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular)
-![MySQL](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
-![MySQL](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=node.js)
+![Ionic](https://img.shields.io/badge/-Ionic-060606?style=flat&logo=ionic)
+![Angular](https://img.shields.io/badge/-Angular-060606?style=flat&logo=angular)
+![TypeScript](https://img.shields.io/badge/-Typescript-060606?style=flat&logo=typescript)
+![Node](https://img.shields.io/badge/-NodeJS-060606?style=flat&logo=node.js)
 
 </details>
 
 <hr/>
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arimario-jesus/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/codeeveryday)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0072C6?style=flat&logo=Microsoft-Outlook&link=mailto:arimario.jesus@hotmail.com)](mailto:arimario.jesus@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/arimario-jesus/)
+[![Instagram](https://img.shields.io/badge/-Instagram-060606?style=flat&labelColor=0D0D0D&logo=instagram&logoColor=white)](https://www.instagram.com/codeeveryday365)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-060606?style=flat&labelColor=0D0D0D&logo=Microsoft-Outlook&Color=white)](mailto:arimario.jesus@hotmail.com)
 
 </div>
