@@ -1,3 +1,7 @@
+<audio autoload loop>
+  <source src="Skyrim_Far_Horizon.mp3">
+</audio>
+
 ![banner](https://user-images.githubusercontent.com/64603070/102695401-eb025380-4205-11eb-9c85-37b6fe162f75.gif)
 
 Olá, me chamo Arimário, sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Bahia (IFBA), e sou apaixonado por programação, música e tecnologia em geral.
