@@ -6,7 +6,7 @@
 
 Olá, me chamo Arimário, sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Bahia (IFBA), e sou apaixonado por programação, música e tecnologia em geral.
 
-Meu primeiro contato com a programação foi em 2019, e desde então venho estudando diariamente e adaptei todo o ecossistema à minha volta para que eu pudesse "respisrar" programação e tecnologia, e para que um dia eu venha a me tornar um desenvolvedor fullstack.
+Meu primeiro contato com a programação foi em 2019, e desde então venho estudando diariamente e adaptei todo o ecossistema à minha volta para que eu pudesse "respirar" programação e tecnologia, e para que um dia eu venha a me tornar um desenvolvedor fullstack.
 
 <br>
 <details>
