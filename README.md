@@ -39,12 +39,10 @@ Meu primeiro contato com a programação foi em 2019, e desde então venho estud
 
 <details>
 <summary>
-<strong>📝 Aprendendo</strong>
+<strong>📝 Pretendo aprender</strong>
 </summary>
 <br>
 
-![Ionic](https://img.shields.io/badge/-Ionic-060606?style=flat&logo=ionic)
-![Angular](https://img.shields.io/badge/-Angular-060606?style=flat&logo=angular)
 ![TypeScript](https://img.shields.io/badge/-Typescript-060606?style=flat&logo=typescript)
 ![Node](https://img.shields.io/badge/-NodeJS-060606?style=flat&logo=node.js)
 
