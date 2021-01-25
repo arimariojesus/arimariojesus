@@ -43,6 +43,7 @@ Meu primeiro contato com a programação foi em 2019, e desde então venho estud
 </summary>
 <br>
 
+![React](https://img.shields.io/badge/-React-060606?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-Typescript-060606?style=flat&logo=typescript)
 ![Node](https://img.shields.io/badge/-NodeJS-060606?style=flat&logo=node.js)
 
