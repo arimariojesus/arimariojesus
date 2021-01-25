@@ -11,7 +11,7 @@ Meu primeiro contato com a programação foi em 2019, e desde então venho estud
 <br>
 <details>
 <summary>
-  <strong>⚙ Linguagens</strong>
+  <strong>⚙ Tecnologias</strong>
 </summary>
 <br>
 
