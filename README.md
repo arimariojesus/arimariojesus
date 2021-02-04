@@ -9,7 +9,7 @@ Olá, me chamo Arimário, sou estudante de Análise e Desenvolvimento de Sistema
 Meu primeiro contato com a programação foi em 2019, e desde então venho estudando diariamente e adaptei todo o ecossistema à minha volta para que eu pudesse "respirar" programação e tecnologia, e para que um dia eu venha a me tornar um desenvolvedor fullstack.
 
 <br>
-<details>
+<details open>
 <summary>
   <strong>⚙ Tecnologias</strong>
 </summary>
@@ -23,7 +23,7 @@ Meu primeiro contato com a programação foi em 2019, e desde então venho estud
 
 </details>
 
-<details>
+<details open>
 <summary>
   <strong>🛠 Ferramentas</strong>
 </summary>
@@ -37,7 +37,7 @@ Meu primeiro contato com a programação foi em 2019, e desde então venho estud
 
 </details>
 
-<details>
+<details open>
 <summary>
 <strong>📝 Pretendo aprender</strong>
 </summary>
