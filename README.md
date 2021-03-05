@@ -4,9 +4,13 @@
 
 ![banner](https://user-images.githubusercontent.com/64603070/102695401-eb025380-4205-11eb-9c85-37b6fe162f75.gif)
 
-Olá, me chamo Arimário, sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Bahia (IFBA), e sou apaixonado por programação, música e tecnologia em geral.
+Olá, me chamo Arimário, sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Bahia (IFBA), e sou apaixonado por programação, música e tecnologia quase tudo que é relacionado à tecnologia.
 
-Meu primeiro contato com a programação foi em 2019, e desde então venho estudando diariamente e adaptei todo o ecossistema à minha volta para que eu pudesse "respirar" programação e tecnologia, e para que um dia eu venha a me tornar um desenvolvedor fullstack.
+Dedico-me diariamente à me tornar cada vez melhor como desenvolvedor e também como pessoa. Meu maior prazer é poder inspirar e ajudar pessoas através do que faço, e criar projetos que possibilitem isto é o meu hobbie preferido.
+
+Me considero um entusiasta do JavaScript, e venho construindo uma base muito sólida na mesma - então pode me perguntar algo sobre que talvez eu possa lhe ajudar - o que me permite criar aplicações complexas, utilizando puramente javascript.
+
+Apesar disto, no meu momento atual estou estudando a biblioteca _React_, o runtime _Node_ e o superset _TypeScript_. Que belho trio não acha? 😁
 
 <br>
 <details open>
@@ -39,7 +43,7 @@ Meu primeiro contato com a programação foi em 2019, e desde então venho estud
 
 <details open>
 <summary>
-<strong>📝 Pretendo aprender</strong>
+<strong>📝 Aprendendo</strong>
 </summary>
 <br>
 
