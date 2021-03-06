@@ -4,7 +4,7 @@
 
 ![banner](https://user-images.githubusercontent.com/64603070/102695401-eb025380-4205-11eb-9c85-37b6fe162f75.gif)
 
-Olá, me chamo Arimário, sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Bahia (IFBA), e sou apaixonado por programação, música e tecnologia quase tudo que é relacionado à tecnologia.
+Olá, me chamo Arimário, sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Bahia (IFBA), e sou apaixonado por programação, música e quase tudo que é relacionado à tecnologia.
 
 Dedico-me diariamente à me tornar cada vez melhor como desenvolvedor e também como pessoa. Meu maior prazer é poder inspirar e ajudar pessoas através do que faço, e criar projetos que possibilitem isto é o meu hobbie preferido.
 
