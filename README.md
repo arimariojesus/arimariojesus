@@ -8,9 +8,9 @@ Olá, me chamo Arimário, sou estudante de Análise e Desenvolvimento de Sistema
 
 Dedico-me diariamente à me tornar cada vez melhor como desenvolvedor e também como pessoa. Meu maior prazer é poder inspirar e ajudar pessoas através do que faço, e criar projetos que possibilitem isto é o meu hobbie preferido.
 
-Me considero um entusiasta do JavaScript, e venho construindo uma base muito sólida na mesma - então pode me perguntar algo sobre que talvez eu possa lhe ajudar - o que me permite criar aplicações complexas, utilizando puramente javascript.
+Me considero um entusiasta do JavaScript, e venho construindo uma base muito sólida na mesma - então pode me perguntar algo sobre, que talvez eu consiga lhe ajudar - o que me permite criar aplicações complexas, utilizando puramente javascript.
 
-Apesar disto, no meu momento atual estou estudando a biblioteca _React_, o runtime _Node_ e o superset _TypeScript_. Que belho trio não acha? 😁
+Apesar disto, no meu momento atual estou estudando a biblioteca _React_, o runtime _Node_ e o superset _TypeScript_ (Que belho trio não acha? 😁).
 
 <br>
 <details open>
