@@ -15,42 +15,71 @@ Apesar disto, no meu momento atual estou estudando a biblioteca _React_, o runti
 <br>
 <details open>
 <summary>
-  <strong>⚙ Tecnologias</strong>
+  <strong>✒ Linguagens</strong>
 </summary>
 <br>
 
-![HTML5](https://img.shields.io/badge/-HTML5-060606?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-060606?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-060606?style=flat&logo=PHP)
-![SQL](https://img.shields.io/badge/-SQL-060606?style=flat&logo=MySQL)
+[![TypeScript](https://img.shields.io/badge/-Typescript-060606?style=flat-square&logo=typescript&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-060606?style=flat-square&logo=javascript&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+  
+</details>
+
+<details open>
+<summary>
+  <strong>🎨 Front-end / Design</strong>
+</summary>
+<br>
+
+[![HTML5](https://img.shields.io/badge/-HTML5-060606?style=flat-square&logo=html5&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![CSS3](https://img.shields.io/badge/-CSS3-060606?style=flat-square&logo=css3&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![React](https://img.shields.io/badge/-React-060606?style=flat-square&logo=react&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![NextJS](https://img.shields.io/badge/-NextJS-060606?style=flat-square&logo=Next.js&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![Styled-components](https://img.shields.io/badge/-Styled%20Components-060606?style=flat-square&logo=styled-components&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![Sass](https://img.shields.io/badge/-Sass-060606?style=flat-square&logo=sass&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![Figma](https://img.shields.io/badge/-Figma-060606?style=flat-square&logo=figma&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
 
 </details>
 
 <details open>
 <summary>
-  <strong>🛠 Ferramentas</strong>
+  <strong>🧰 Outras Tecnologias</strong>
 </summary>
 <br>
 
-![Git](https://img.shields.io/badge/-Git-060606?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-060606?style=flat&logo=GitHub)
-![MongoDB](https://img.shields.io/badge/-MongoDB-060606?style=flat&logo=mongodb)
-![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma)
-![PHPMyAdmin](https://img.shields.io/badge/-phpMyAdmin-060606?style=flat&logo=phpMyAdmin)
-
+[![Nodejs](https://img.shields.io/badge/-Nodejs-060606?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![Docker](https://img.shields.io/badge/-Docker-060606?style=flat-square&logo=docker&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![Strapi](https://img.shields.io/badge/-Strapi-060606?style=flat-square&logo=strapi&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![Storybook](https://img.shields.io/badge/-Storybook-060606?style=flat-square&logo=storybook&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![Postman](https://img.shields.io/badge/-Postman-060606?style=flat-square&logo=Postman&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![Insomnia](https://img.shields.io/badge/-Insomnia-060606?style=flat-square&logo=Insomnia&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+  
 </details>
 
 <details open>
 <summary>
-<strong>📝 Aprendendo</strong>
+  <strong>💾 Banco de Dados / Deploy</strong>
 </summary>
 <br>
 
-![React](https://img.shields.io/badge/-React-060606?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-Typescript-060606?style=flat&logo=typescript)
-![Node](https://img.shields.io/badge/-NodeJS-060606?style=flat&logo=node.js)
+[![MySQL](https://img.shields.io/badge/-MySQL-060606?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-060606?style=flat-square&logo=mongodb&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![Heroku](https://img.shields.io/badge/-Heroku-060606?style=flat-square&logo=heroku&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![Vercel](https://img.shields.io/badge/-Vercel-060606?style=flat-square&logo=vercel&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![Netlify](https://img.shields.io/badge/-Netlify-060606?style=flat-square&logo=netlify&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+  
+</details>
 
+<details open>
+<summary>
+  <strong>🗂 Versionamento / Produtividade</strong>
+</summary>
+<br>
+
+[![Git](https://img.shields.io/badge/-Git-060606?style=flat-square&logo=git&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![GitHub](https://img.shields.io/badge/-GitHub-060606?style=flat-square&logo=github&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![GitLab](https://img.shields.io/badge/-GitLab-060606?style=flat-square&logo=gitlab&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+[![Notion](https://img.shields.io/badge/-Notion-060606?style=flat-square&logo=notion&logoColor=white&link=https://github.com/arimariojesus/)](https://github.com/arimariojesus/)
+  
 </details>
 
 <hr/>
