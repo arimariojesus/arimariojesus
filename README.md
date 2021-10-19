@@ -8,7 +8,7 @@
 
 <br>
 
-Um entusiasta da tecnologia, apaixonado desenvolver. Fascinado pelo mundo de possibilidades que a tecnologia proporciona e o poder de transformar positivamente a vida das pessoas.
+Um entusiasta da tecnologia, apaixonado por desenvolver. Fascinado pelo mundo de possibilidades que a tecnologia proporciona e o poder de transformar positivamente a vida das pessoas.
 
 Caminhando em passos curtos e constantes, vou deixando minha marca por onde passo. A minha vontade em ajudar me move e me motiva a ser cada dia melhor. Em 10 anos como músico, aprendi que ensinar é o melhor caminho para se aprender, e que um talento/conhecimento é melhor aproveitado quando ele beneficia não só a você, mas também ao seu próximo.
 
