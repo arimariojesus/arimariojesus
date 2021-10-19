@@ -4,13 +4,13 @@
 
 ![banner](https://user-images.githubusercontent.com/64603070/102695401-eb025380-4205-11eb-9c85-37b6fe162f75.gif)
 
-Olá, me chamo Arimário, sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Bahia (IFBA), e sou apaixonado por programação, música e quase tudo que é relacionado à tecnologia.
+> *Uma linha de código de cada vez até que eu possa mudar o mundo.*
 
-Dedico-me diariamente à me tornar cada vez melhor como desenvolvedor e também como pessoa. Meu maior prazer é poder inspirar e ajudar pessoas através do que faço, e criar projetos que possibilitem isto é o meu hobbie preferido.
+<br>
 
-Me considero um entusiasta do JavaScript, e venho construindo uma base muito sólida na mesma - então pode me perguntar algo sobre, que talvez eu consiga lhe ajudar - o que me permite criar aplicações complexas, utilizando puramente javascript.
+Um entusiasta da tecnologia, apaixonado desenvolver. Fascinado pelo mundo de possibilidades que a tecnologia proporciona e o poder de transformar positivamente a vida das pessoas.
 
-Apesar disto, no meu momento atual estou estudando a biblioteca _React_, o runtime _Node_ e o superset _TypeScript_ - Que belo trio não acha? 🤩.
+Caminhando em passos curtos e constantes, vou deixando minha marca por onde passo. A minha vontade em ajudar me move e me motiva a ser cada dia melhor. Em 10 anos como músico, aprendi que ensinar é o melhor caminho para se aprender, e que um talento/conhecimento é melhor aproveitado quando ele beneficia não só a você, mas também ao seu próximo.
 
 <br>
 <details open>
