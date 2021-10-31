@@ -6,7 +6,7 @@
 
 > *Uma linha de código de cada vez até que eu possa mudar o mundo.*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arimariojesus.arimariojesus)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=arimariojesus.arimariojesus&left_color=8D8D8D&right_color=060606)
 
 <br>
 
