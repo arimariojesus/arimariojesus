@@ -26,7 +26,7 @@ Caminhando em passos curtos e constantes, vou deixando minha marca por onde pass
 
 <details open>
 <summary>
-  <strong>🎨 Front-end / Design</strong>
+  <strong>🎨 Front-end / UI</strong>
 </summary>
 <br>
 
