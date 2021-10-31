@@ -6,6 +6,8 @@
 
 > *Uma linha de código de cada vez até que eu possa mudar o mundo.*
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=arimariojesus.arimariojesus)
+
 <br>
 
 Um entusiasta da tecnologia, apaixonado por desenvolver. Fascinado pelo mundo de possibilidades que a tecnologia proporciona e o poder de transformar positivamente a vida das pessoas através dela.
