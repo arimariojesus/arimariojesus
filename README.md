@@ -2,7 +2,7 @@
   <source src="Skyrim_Far_Horizon.mp3">
 </audio>
 
-![banner](https://user-images.githubusercontent.com/64603070/102695401-eb025380-4205-11eb-9c85-37b6fe162f75.gif)
+![banner](https://user-images.githubusercontent.com/64603070/194763225-b1dae45f-ea9b-4bc1-a28e-0f9b2cab4b38.gif)
 
 > *Uma linha de código de cada vez até que eu possa mudar o mundo.*
 
